@@ -1,0 +1,1 @@
+This repository contains a simple example of a common Groovy error: the each method returning null. The bug.groovy file shows the incorrect usage of the each method, while the bugSolution.groovy file shows the correct way to modify a list using the each method.  The solution demonstrates using `collect` for the desired result.
